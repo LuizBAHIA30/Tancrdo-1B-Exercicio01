@@ -1,2 +1,2 @@
-# Tancrdo-1B-Exercicio01
+# Tancredo-1B-Exercicio01
 Exercício em javascript
